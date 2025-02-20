@@ -83,16 +83,8 @@ Before you begin, ensure you have the following installed:
    Start the chatbot application:
 
    ```bash
-   python chatbot.py
+   python ollama.py
    ```
 
 
-   Replace `chatbot.py` with the actual entry point script if it's different.
 
-## Additional Notes
-
-- **Jupyter Notebook Extensions**: The repository contains Jupyter notebook configurations and extensions. If you plan to use Jupyter notebooks, ensure you have Jupyter installed and set up the necessary extensions.
-
-- **Web Interface**: The repository references a web interface at [fintech-gamma-two.vercel.app](https://fintech-gamma-two.vercel.app). For integration or deployment details, refer to the project's documentation or source code.
-
-For further assistance or to report issues, please visit the [GitHub repository](https://github.com/GitArunjangid/Chatbot). 
